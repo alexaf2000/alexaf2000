@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 
 ### My stats 👨🏻‍💻
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=alexaf2000&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=alexaf2000&count_private=true&show_icons=true&theme=dracula)](https://github.com/alexaf2000/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/wakatime?username=alexaf2000&theme=dracula)](https://github.com/alexaf2000/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=alexaf2000&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/wakatime?username=alexaf2000&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=alexaf2000&theme=dracula)](https://github.com/alexaf2000/)
+
 
