@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ### My stats 👨🏻‍💻
 
@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=alexaf2000&theme=dracula)](https://github.com/alexaf2000/)
-
+ -->
 
